@@ -17,11 +17,16 @@ Desafio de Projeto sobre Git/Github
 
 ## comandos iniciais Básicos (windows)
 
-dir
-cd
-mkdir
-del/rmdir
-ls
-ctrl+l
+* dir (comando para abrir a lista diretórios contidos na pasta que está situada)
+
+* cd/ (comando para navegar entre as pastas)
+
+* mkdir ( criar uma pasta)
+
+* del/rmdir
+
+* cls ( limpar o terminal do windows)
+
+* ctrl+l
 
 
